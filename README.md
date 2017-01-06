@@ -13,3 +13,5 @@ Current functionality:
 - Getting the comments
 - Creating new comment
 - Deleting the comments
+- Getting messages with specified source
+- Sending messages to the specified source
